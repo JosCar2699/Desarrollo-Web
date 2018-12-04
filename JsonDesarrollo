@@ -1,0 +1,37 @@
+[
+{
+"name": "The Amazing Spider-Man 2",
+"categories": "Action",
+"classification": "PG-13",
+"photo": "http://www.alucine.es/wp-content/uploads/2014/09/22.jpg",
+"description": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones."
+},
+{
+"name": "To The Bone",
+"categories": "Drama",
+"classification": "PG-13",
+"photo": "https://occ-0-999-1009.1.nflxso.net/art/b1281/50a1720197c4b68a43e34b93a5a8310ab84b1281.jpg",
+"description": "A young woman, dealing with anorexia, meets an unconventional doctor who challenges her to face her condition and embrace life."
+},
+{
+"name": "The Fate of the Furious",
+"categories": "Crime",
+"classification": "R",
+"photo": "https://wallpapercave.com/wp/wp1911658.jpg",
+"description": "When a mysterious woman seduces Dom into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before."
+},
+{
+"name": "Avengers: Infinity War",
+"categories": "Action",
+"classification": "R",
+"photo": "https://images.alphacoders.com/885/885339.jpg",
+"description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+},
+{
+"name": "To All the Boys I've Loved Before",
+"categories": "Romance",
+"classification": "R",
+"photo": "https://cnet3.cbsistatic.com/img/iMyTpBIhvDIDdt7ZnJVwDRqupc4=/1600x900/2018/08/21/9f464e21-f875-4333-9ce2-1923318c5b4e/tatb-lana-peter-thumbnail.jpg",
+"description": "A teenage girl's secret love letters are exposed and wreak havoc on her love life."
+}
+]
